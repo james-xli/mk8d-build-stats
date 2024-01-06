@@ -1,0 +1,5 @@
+Name,Speed_Land,Speed_Anti-G,Speed_Water,Speed_Gliding,Accel,Weight,Handling_Land,Handling_Anti-G,Handling_Water,Handling_Gliding,Traction,M-turbo,Invincib
+Super Glider = Waddle Wing = Hylian Kite,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cloud Glider = Parachute = Flower Glider = Paper Glider,-0.25,0.25,0,-0.25,0.25,-0.25,0,0,0,0.25,0,0.25,-0.25
+Wario Wing = Plane Glider = Gold Glider = Paraglider,0,0.25,-0.25,0,0,0.25,0,-0.25,0.25,0,-0.25,0,0
+Peach Parasol = Parafoil = Bowser Kite = MKTV Parafoil,-0.25,0.25,-0.25,-0.25,0.25,0,0,-0.25,0.25,0.25,-0.25,0.25,-0.25
